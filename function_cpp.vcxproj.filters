@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="main%255c">
+      <UniqueIdentifier>{11a2ff67-e770-4761-9e9f-8c371921d764}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="function.cpp">
+      <Filter>main%255c</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
